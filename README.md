@@ -32,7 +32,7 @@ So in order to start typing, you want to run these shell scripts. You can do thi
 
 # In one keystroke!
 
-If you set up [Keyboard Cowboy]() or a similar such program, you can set a key command to trigger the shell files!
+If you set up [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) or a similar such program, you can set a key command to trigger the shell files!
 
 <img width="485" alt="Screenshot 2024-04-06 at 1 10 59 PM" src="https://github.com/tbrazel/math-journal/assets/42276623/7ca2d0be-370d-4ca3-b456-009b03604bd4">
 
