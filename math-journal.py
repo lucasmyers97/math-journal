@@ -26,7 +26,3 @@ if not os.path.isfile(file_path):
         file.close()
 else:
     print('is a file')
-
-############
-
-# We now have a file if we need it. Time to edit the list of dates in the main file
