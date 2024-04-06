@@ -3,7 +3,7 @@
 
 The following provides a very lightweight way to keep a math journal. Within one keystroke you can start typing, and a file for that day will be automatically created. In another keystroke you can view a compiled version of your whole math journal. The philosophy behind this is that you should have a home to jot down thoughts instantly, and the tech behind it should enable you to do it without navigating directories, creating files, including them in a master file, etc. --- all of that is handled in the back end.
 <p align="center">
-<img width="581" alt="Screenshot 2024-04-06 at 1 33 19 PM" src="https://github.com/tbrazel/math-journal/assets/42276623/49feccb6-8839-4412-b008-a29d3095568c">
+<img width="550" alt="Screenshot 2024-04-06 at 1 37 16 PM" src="https://github.com/tbrazel/math-journal/assets/42276623/78029b2d-a242-40db-8b8e-479652787158">
 </p>
 
 # How to get set up:
